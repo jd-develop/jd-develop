@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Jean Dubois !
-You can contact me at jd-dev@laposte.net
+Contact me here : https://jd-develop.github.io/contact.html
 
 <!--
 **jd-develop/jd-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
