@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Jean Dubois !
-Contact me here : https://jd-develop.github.io/contact.html
+Contact me here : [http://jd-develop.github.io/infos
+](https://jd-develop.github.io/infos.html)
 
 ![Jean Dubois' top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jd-develop&layout=compact&theme=dark&hide_border=true)
 
