@@ -3,7 +3,7 @@ I'm Jean Dubois !
 Contact me here : [https://jd-develop.github.io/infos.html
 ](https://jd-develop.github.io/infos.html)
 
-I’m not searching for a job./Je ne cherche pas de boulot.
+I’m not looking for a job./Je ne cherche pas de boulot.
 
 ![Jean Dubois' top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jd-develop&layout=compact&theme=dark&hide_border=true)
 
