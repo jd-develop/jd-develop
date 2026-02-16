@@ -1,6 +1,5 @@
 ### Hi there 👋
 I’m Jean Dubois (not my real name)!
-Contact me here: [https://jd-develop.github.io/infos.html](https://jd-develop.github.io/infos.html)
 
 I’m not looking for a job/je ne cherche pas de travail.
 
