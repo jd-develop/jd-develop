@@ -1,7 +1,7 @@
 ### Adieusiatz 👋
 I’m Jean Dubois (not my real name)!
 
-I’m not looking for a job/je ne cherche pas de travail/cerqui pas de trabalh.
+I’m not looking for a job. / Je ne cherche pas de travail. / Cerqui pas de trabalh.
 
 ![Jean Dubois' top langs](https://gh-readme-stats-fork.vercel.app/api/top-langs/?username=jd-develop&layout=compact&theme=dark&hide_border=true)
 
